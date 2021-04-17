@@ -1,0 +1,80 @@
+[
+    {
+      "id": 1,
+      "name": "Mew",
+      "description": "Clone of MewTwo",
+      "type": "Psychic",
+      "healthPoints": "1000.000",
+      "specialAttack": "1000.000",
+      "defense": "1000.000",
+      "attack": "1000.000",
+      "experience": "1000.000",
+      "specialDefense": "1000.000",
+      "img": "../images/mew.svg"
+    },
+    {
+      "id": 2,
+      "name": "Moltres",
+      "description": "Moltres is a legendary fire bird Pokémon.",
+      "type": "Fire",
+      "healthPoints": "1000.000",
+      "specialAttack": "1000.000",
+      "defense": "1000.000",
+      "attack": "1000.000",
+      "experience": "1000.000",
+      "specialDefense": "1000.000",
+      "img": "../images/moltres.svg"
+    },
+    {
+      "id": 3,
+      "name": "Articuno",
+      "description": "Articuno is a legendary ice bird Pokémon.",
+      "type": "Ice",
+      "healthPoints": "1000.000",
+      "specialAttack": "1000.000",
+      "defense": "1000.000",
+      "attack": "1000.000",
+      "experience": "1000.000",
+      "specialDefense": "1000.000",
+      "img": "../images/articuno.svg"
+    },
+    {
+      "id": 4,
+      "name": "Zapdos",
+      "description": "Zapdos is a legendary eletric bird Pokémon.",
+      "type": "Electric",
+      "healthPoints": "1000.000",
+      "specialAttack": "1000.000",
+      "defense": "1000.000",
+      "attack": "1000.000",
+      "experience": "1000.000",
+      "specialDefense": "1000.000",
+      "img": "../images/zapdos.svg"
+    },
+    {
+      "id": 5,
+      "name": "Diancie",
+      "description": "A sudden transformation of Carbink.",
+      "type": "Fairy",
+      "healthPoints": "1000.000",
+      "specialAttack": "1000.000",
+      "defense": "1000.000",
+      "attack": "1000.000",
+      "experience": "1000.000",
+      "specialDefense": "1000.000",
+      "img": "../images/diancie.svg"
+    },
+    {
+      "id": 6,
+      "name": "Xerneas",
+      "description": "Legends say it can share eternal life.",
+      "type": "Fairy",
+      "healthPoints": "1000.000",
+      "specialAttack": "1000.000",
+      "defense": "1000.000",
+      "attack": "1000.000",
+      "experience": "1000.000",
+      "specialDefense": "1000.000",
+      "img": "../images/xerneas.svg"
+    }
+  ]
